@@ -1,3 +1,3 @@
 def ecrire(chaine):
-    print(chaine)
+    print(chaine.upper())
 ecrire("Hello world!")
